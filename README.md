@@ -1,2 +1,1 @@
-# wiki
-Collection of articles and tips
+* [Creating a new Data Science project](https://github.com/licancabur-management/ds_starter)

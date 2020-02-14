@@ -1,3 +1,3 @@
 ## Wiki
 
-* [Creating a new Data Science project](https://github.com/licancabur-management/ds_starter)
+* [Creating a new Data Science project](https://github.com/volcano-assets/data-science-starter)
